@@ -1,0 +1,35 @@
+{
+  "name": "arch-text",
+  "version": "0.0.2",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "main": "dist/arch-text.min.mjs",
+  "description": "A simple and easy-to-use arch text library",
+  "keywords": [
+    "arch",
+    "arc",
+    "curve",
+    "rotate",
+    "text"
+  ],
+  "author": "Allen Jrue",
+  "homepage": "https://github.com/maynode/arch-text",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maynode/arch-text"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "terser": "^5.43.1",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.3"
+  },
+  "dependencies": {
+    "@types/node": "^24.0.12"
+  }
+}
