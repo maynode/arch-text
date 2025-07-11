@@ -5,7 +5,7 @@ ArchText is a simple and easy-to-use JavaScript library for arranging text along
 ## Installation
 
 ```bash
-npm install arch-text
+pnpm install arch-text
 ```
 
 ## Basic Usage
