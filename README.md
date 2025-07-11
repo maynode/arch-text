@@ -37,7 +37,7 @@ new ArchText("#wrapper", {
 
 ## Illustration
 
-![illustration image](/demo/test.png)
+![illustration image](https://raw.githubusercontent.com/maynode/arch--text/refs/heads/main/demo/test.png)
 
 ## Options
 
