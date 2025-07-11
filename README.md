@@ -8,12 +8,6 @@ ArchText is a simple and easy-to-use JavaScript library for arranging text along
 npm install arch-text
 ```
 
-Or, if using locally:
-
-```js
-import ArchText from "arch-text";
-```
-
 ## Basic Usage
 
 1. Prepare your HTML:
